@@ -1,6 +1,6 @@
 /*Basically Two ways to create object :-
         1. Using object literals({}) => values are accessed by Dot notation and Bracket Notation
-        2. Using Object Constructor(Object.create())  => It will create a singleton object
+        2. Using Object Constructor(new Object())  => It will create a singleton object
 */
  const mySymbol = Symbol("key1")        // you have to add this symbol into the object .
 
